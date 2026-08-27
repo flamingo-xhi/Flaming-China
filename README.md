@@ -9,6 +9,9 @@ Leak Size -  10 PetaByte +++
 * 1500XMR for sale
 
 * XMR Address - 47eohyLFX47HuJwBz3LG12ha2KaTKA39pMuzyAWh2YbR9ZrejqtaYzdZLKmVX5NiyqDc26P9UPmo6G3t8i8Wzbkf9C2bMAc
+
 * Mail - johnthomas825@cocoro.uk
 
-Instruction - Share transaction hash on the above mail
+* Sample - Contact me through mail only mail
+
+**More - If you have high-value data that you would like me to sell on your behalf, please contact me directly via mail and send me a sample. I will participate in the transaction as a trusted third-party intermediary and charge a commission of 4–7%.**

@@ -8,6 +8,6 @@ Leak Size -  10 PetaByte +++
 * Highest bidder will get the full data **(Limited Sell)**
 
 * XMR Address - 453SPVPLypDdgzF5EoLHcXB4Bd74K9f92euDDjrcWqqY5RrkZeb4KsA1PzXPYY9pybg2hTBeQt3LA8esv46GJAJAAPhT1W4
-* Mail - johnthomas822@onionmail.org
+* Mail - johnthomas825@cocoro.uk
 
 Instruction - Share transaction hash on the above mail
